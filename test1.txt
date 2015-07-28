@@ -1,4 +1,12 @@
 dfasdfawe
 
 
+<<<<<<< HEAD
 123
+=======
+setset
+
+tsets
+
+
+>>>>>>> bugfix
